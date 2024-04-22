@@ -1,0 +1,3 @@
+trasformers
+torch
+python-dotenv
