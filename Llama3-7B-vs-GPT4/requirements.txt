@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-groq
+langchain-experimental
+seaborn
+streamlit
+python-dotenv
